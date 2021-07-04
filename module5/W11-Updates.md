@@ -2,7 +2,7 @@
 
 ### Intro
 
-My team and I decided to learn Database for this module. This is because we want our our platformer game to save progress of player.
+My team and I decided to learn Database for this module. This is because we want our platformer game to save progress of player.
 
 For Sprint 5, I watched some helpful tutorial videos for the team project. I implemented a temporary pause button but the goal for this game is to have a pause menu. I linked the main Menu Screen to our game. Now, when the user click 'Play', it rerouted to the actual game. We still had to work on creating a demo for our project presentation so that took a bit of the time. 
 
